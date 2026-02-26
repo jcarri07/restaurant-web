@@ -76,7 +76,7 @@ export const DigitalMenu = () => {
                     >
                         Nuestra Carta
                     </motion.div>
-                    <h2 className="text-4xl md:text-6xl font-black mb-8 text-stone-900">
+                    <h2 className="text-4xl md:text-6xl font-black mb-8 text-stone-900 leading-tight">
                         ¡Para chuparse los <span className="text-orange-500">dedos!</span>
                     </h2>
                     <div className="flex flex-wrap justify-center gap-4">

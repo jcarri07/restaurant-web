@@ -62,7 +62,7 @@ export const Hero = () => {
 
                 <motion.h1
                     variants={itemVariants}
-                    className="text-6xl md:text-8xl font-black mb-6 tracking-tight leading-[0.9] text-stone-900"
+                    className="text-6xl md:text-8xl font-black mb-6 tracking-tight leading-tight text-stone-900"
                 >
                     ¡El sabor que te hace <span className="text-orange-500">feliz!</span> 🥟
                 </motion.h1>

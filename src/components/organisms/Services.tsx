@@ -25,7 +25,7 @@ export const Services = () => {
         <section id="servicios" className="py-24 px-6 bg-white">
             <div className="container mx-auto">
                 <div className="text-center mb-16">
-                    <h2 className="text-4xl md:text-6xl font-black mb-4 text-stone-900">¿Cómo <span className="text-orange-500">disfrutarlo?</span></h2>
+                    <h2 className="text-4xl md:text-6xl font-black mb-4 text-stone-900 leading-tight">¿Cómo <span className="text-orange-500">disfrutarlo?</span></h2>
                     <p className="text-stone-500 max-w-xl mx-auto font-bold">Te lo ponemos fácil para que nunca te falte ese saborcito criollo.</p>
                 </div>
 
