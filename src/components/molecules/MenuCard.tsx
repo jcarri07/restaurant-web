@@ -34,10 +34,10 @@ export const MenuCard = ({ item }: MenuCardProps) => {
                 </div>
             </div>
             <div className="p-6 flex-1 flex flex-col bg-white">
-                <h3 className="text-2xl font-black mb-2 text-stone-800 group-hover:text-orange-600 transition-colors">
+                <h3 className="text-2xl font-black mb-2 text-stone-900 group-hover:text-orange-600 transition-colors">
                     {item.name}
                 </h3>
-                <p className="text-stone-500 leading-snug flex-1">
+                <p className="text-stone-700 leading-snug flex-1">
                     {item.description}
                 </p>
                 <button className="mt-4 text-emerald-600 font-bold flex items-center gap-1 hover:gap-2 transition-all">

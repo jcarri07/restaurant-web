@@ -19,8 +19,8 @@ export const ServiceCard = ({ title, description, icon }: ServiceCardProps) => {
             <div className="p-4 rounded-2xl bg-slate-900 text-amber-400 group-hover:bg-amber-400 group-hover:text-slate-950 transition-colors duration-300">
                 {icon}
             </div>
-            <h3 className="text-2xl font-bold text-slate-100">{title}</h3>
-            <p className="text-slate-400 leading-relaxed">
+            <h3 className="text-2xl font-bold text-stone-900">{title}</h3>
+            <p className="text-stone-700 leading-relaxed font-medium">
                 {description}
             </p>
         </motion.div>
