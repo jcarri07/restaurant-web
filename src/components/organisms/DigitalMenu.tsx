@@ -9,7 +9,7 @@ const MENU_ITEMS = [
         name: "Empanada de Carne",
         description: "Carne picadita, cebollín y especias secretas. ¡La favorita!",
         price: "$2.50",
-        image: "https://images.unsplash.com/photo-1628102422617-e95f137e3eee?q=80&w=2070&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1647683935271-92524f0c8973?q=80&w=2070&auto=format&fit=crop",
         category: "Empanadas"
     },
     {
@@ -33,7 +33,7 @@ const MENU_ITEMS = [
         name: "Combo Familiar (12)",
         description: "Docena de empanadas variadas + Gaseosa grande para compartir.",
         price: "$25.00",
-        image: "https://images.unsplash.com/photo-1628102422230-6831d1024226?q=80&w=2070&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=2070&auto=format&fit=crop",
         category: "Combos"
     },
     {
@@ -41,7 +41,7 @@ const MENU_ITEMS = [
         name: "Empanada de Queso",
         description: "Muuucho queso derretido. Simplemente deliciosa.",
         price: "$2.00",
-        image: "https://images.unsplash.com/photo-1574894709320-20aa3949826d?q=80&w=2070&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1559146050-dc60f384964f?q=80&w=1974&auto=format&fit=crop",
         category: "Empanadas"
     },
     {
