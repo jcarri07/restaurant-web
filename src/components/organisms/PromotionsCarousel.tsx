@@ -63,7 +63,7 @@ export const PromotionsCarousel = () => {
                                         <motion.h2
                                             initial={{ opacity: 0, y: 30 }}
                                             whileInView={{ opacity: 1, y: 0 }}
-                                            className="text-5xl md:text-7xl font-black mb-4 text-white drop-shadow-md"
+                                            className="text-4xl md:text-6xl font-black mb-4 text-white drop-shadow-md leading-tight"
                                         >
                                             {promo.title}
                                         </motion.h2>
@@ -71,7 +71,7 @@ export const PromotionsCarousel = () => {
                                             initial={{ opacity: 0, y: 30 }}
                                             whileInView={{ opacity: 1, y: 0 }}
                                             transition={{ delay: 0.1 }}
-                                            className="text-white/90 text-xl md:text-2xl font-bold"
+                                            className="text-white/90 text-lg md:text-xl font-bold leading-snug"
                                         >
                                             {promo.subtitle}
                                         </motion.p>
